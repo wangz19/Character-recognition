@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+## Character-recognition
 
-You can use the [editor on GitHub](https://github.com/wangz19/Character-recognition/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The dataset can be obtained from [this website](http://yaroslavvb.blogspot.com/2011/09/notmnist-dataset.html), with 370k images of "a-J"
+![sample_image_a](http://yaroslavvb.com/upload/notMNIST/nmn.png)
 
 ### Markdown
 
